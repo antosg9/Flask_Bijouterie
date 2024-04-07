@@ -4,7 +4,7 @@ from pymongo.server_api import ServerApi
 
 app = Flask(__name__)
 
-uri = "mongodb+srv://test:admin@singlebox.1uclju8.mongodb.net/?retryWrites=true&w=majority&appName=SingleBox"
+uri = "mongodb+srv://<userName>:<password>@singlebox.1uclju8.mongodb.net/?retryWrites=true&w=majority&appName=SingleBox" #Remplacer <userName> et <password> par les logs à la base de données MangoDB
 client = MongoClient(uri, server_api=ServerApi('1'))
 db=client.Bijouterie
 collection=db.Pierres
