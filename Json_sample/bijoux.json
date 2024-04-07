@@ -1,0 +1,20 @@
+[{
+    "type" : "Bague",
+    "pierre" : "Diamant",
+    "matiere" : "Platine",
+    "prix" : 1000
+},
+
+{
+    "type" : "Bague",
+    "pierre" : "Saphir",
+    "matiere" : "Or blanc",
+    "prix" : 500
+},
+
+{
+    "type" : "Bague",
+    "pierre" : "Rubis",
+    "matiere" : "Or",
+    "prix" : 100
+}]

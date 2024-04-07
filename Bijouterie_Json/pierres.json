@@ -1,0 +1,14 @@
+[
+    {
+        "pierre": "Diamant",
+        "prix": 1000
+    },
+    {
+        "pierre": "Saphir",
+        "prix": 500
+    },
+    {
+        "pierre": "Rubis",
+        "prix": 100
+    }
+]
